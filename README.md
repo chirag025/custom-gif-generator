@@ -1,1 +1,2 @@
-# random-gifs
+# Custom/Random-gifs
+Download and Generate Gifs.
